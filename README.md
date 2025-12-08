@@ -44,14 +44,13 @@ Here are some projects I’m proud of:
 
 - **E-Commerce** -
 - 📱 **MarketAi** -
-- 
 ## 📫 Contact Me
 
 Feel free to connect with me:
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/dagmawi-antehun-48144534a/]  
 - 🐙 GitHub: [https://github.com/ethio-man/ethio-man]  
-- 💬 Telegram: [<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2444f302-0472-4869-b2a5-9f9c7de0e8be" />
+- 💬 Telegram: [<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2444f302-0472-4869-b2a5-9f9c7de0e8be" />
 ]  
 
 ---
