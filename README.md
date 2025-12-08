@@ -42,21 +42,17 @@ I love exploring new technologies and constantly pushing myself to build better,
 
 Here are some projects I’m proud of:
 
-- E-Commerce -
-- 📱 **Project Two** – Short description of what it does  
-- 🌐 **Project Three** – Short description of what it does  
-
-*(You can add real project links later)*
-
----
-
+- **E-Commerce** -
+- 📱 **MarketAi** -
+- 
 ## 📫 Contact Me
 
 Feel free to connect with me:
 
-- 💼 LinkedIn: [Your LinkedIn URL]  
-- 🐙 GitHub: [Your GitHub Profile URL]  
-- 💬 Telegram: [Your Telegram Handle or Link]  
+- 💼 LinkedIn: [https://www.linkedin.com/in/dagmawi-antehun-48144534a/]  
+- 🐙 GitHub: [https://github.com/ethio-man/ethio-man]  
+- 💬 Telegram: [<img width="948" height="1135" alt="image" src="https://github.com/user-attachments/assets/2444f302-0472-4869-b2a5-9f9c7de0e8be" />
+]  
 
 ---
 
