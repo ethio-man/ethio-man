@@ -31,17 +31,18 @@ I love exploring new technologies and constantly pushing myself to build better,
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,prisma,gcp,firebase)](https://skillicons.dev)
 
 ### Other Technologies
-- 🟨 JavaScript  
-- ☁️ Google Cloud  
-- 💻 C++  
-
+# Deployment
+[![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+- ### Render
+- ### Railway
+[![My Skills](https://skillicons.dev/icons?i=git,postman,github)](https://skillicons.dev)
 ---
 
 ## 🌟 Featured Projects
 
 Here are some projects I’m proud of:
 
-- 🚀 **Project One** – Short description of what it does  
+- E-Commerce -
 - 📱 **Project Two** – Short description of what it does  
 - 🌐 **Project Three** – Short description of what it does  
 
