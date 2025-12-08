@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dagmawi Antehun!
 
-I’m a passionate **full-stack developer** and a **student at Addis Ababa University, actively learning and building modern web applications.
+I’m a passionate **full-stack developer**, actively learning and building modern web applications.
 
 I’m a **self-taught developer**, learning through:
 - Online courses 
@@ -31,7 +31,7 @@ I love exploring new technologies and constantly pushing myself to build better,
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,prisma,gcp,firebase)](https://skillicons.dev)
 
 ### Other Technologies
-# Deployment
+### Deployment
 [![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 - ### Render
 - ### Railway
@@ -48,10 +48,41 @@ Here are some projects I’m proud of:
 
 Feel free to connect with me:
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/dagmawi-antehun-48144534a/]  
-- 🐙 GitHub: [https://github.com/ethio-man/ethio-man]  
-- 💬 Telegram: [<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2444f302-0472-4869-b2a5-9f9c7de0e8be" />
-]  
+  <a href='https://www.linkedin.com/in/dagmawi-antehun-48144534a/' > [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>
+ <a href='https://github.com/ethio-man/ethio-man' > [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)</a>
+### Telegram
+<div style="position:relative;display:inline-block;">
+  <img 
+    width="50" 
+    height="50" 
+    alt="@BePaladin" 
+    src="https://github.com/user-attachments/assets/2444f302-0472-4869-b2a5-9f9c7de0e8be"
+    style="border-radius:50%;cursor:pointer;"
+    onmouseover="this.nextElementSibling.style.opacity=1"
+    onmouseout="this.nextElementSibling.style.opacity=0"
+  />
+
+  <span style="
+    position:absolute;
+    bottom:-30px;
+    left:50%;
+    transform:translateX(-50%);
+    background:#111;
+    color:#fff;
+    padding:4px 8px;
+    font-size:12px;
+    border-radius:4px;
+    white-space:nowrap;
+    opacity:0;
+    transition:opacity 0.2s ease-in-out;
+    pointer-events:none;
+  ">
+    @BePaladin
+  </span>
+</div>
+
+  
+ 
 
 ---
 
