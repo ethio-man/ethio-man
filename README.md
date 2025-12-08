@@ -48,7 +48,7 @@ Here are some projects I’m proud of:
 
 Feel free to connect with me:
 
-  <a href='https://www.linkedin.com/in/dagmawi-antehun-48144534a/' > [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>
+  <a href="https://www.linkedin.com/in/dagmawi-antehun-48144534a/" > [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>
  <a href='https://github.com/ethio-man/ethio-man' > [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)</a>
 ### Telegram
 <div style="position:relative;display:inline-block;">
