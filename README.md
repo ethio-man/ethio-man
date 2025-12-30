@@ -15,6 +15,7 @@ I love exploring new technologies and constantly pushing myself to build better,
     <img src="assets/portfolio-icon.png" alt="Visit my portfolio" width="100"/>
   </a>
 </p>
+
 ---
 ## 👨‍💻 About Me
 - 💻 Self-taught Full-Stack Developer  
