@@ -12,7 +12,7 @@ I love exploring new technologies and constantly pushing myself to build better,
 ---
 <p align="center">
   <a href="https://portfolio-eta-eight-r8ym3tx6sl.vercel.app/" target="_blank">
-    <img src="assets/portfolio-icon.png" alt="Visit my portfolio" width="100"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/023/047/534/original/web-portfolio-icon-design-vector.jpg" alt="Visit my portfolio" width="100"/>
   </a>
 </p>
 
