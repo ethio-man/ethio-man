@@ -10,11 +10,10 @@ I’m a **self-taught developer**, learning through:
 I love exploring new technologies and constantly pushing myself to build better, faster, and smarter solutions.
 
 ---
-<p align="center">
-  <a href="https://portfolio-eta-eight-r8ym3tx6sl.vercel.app/" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/023/047/534/original/web-portfolio-icon-design-vector.jpg" alt="Visit my portfolio" width="100"/>
-  </a>
-</p>
+
+ ## <a href="https://portfolio-eta-eight-r8ym3tx6sl.vercel.app/" target="_blank">  Portfolio </a> <sub style="font-size: 0.5px;">Visit my Portfolio</sub>
+
+
 
 ---
 ## 👨‍💻 About Me
