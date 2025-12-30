@@ -10,7 +10,12 @@ I’m a **self-taught developer**, learning through:
 I love exploring new technologies and constantly pushing myself to build better, faster, and smarter solutions.
 
 ---
-
+<p align="center">
+  <a href="https://portfolio-eta-eight-r8ym3tx6sl.vercel.app/" target="_blank">
+    <img src="assets/portfolio-icon.png" alt="Visit my portfolio" width="100"/>
+  </a>
+</p>
+---
 ## 👨‍💻 About Me
 - 💻 Self-taught Full-Stack Developer  
 - 🚀 Passionate about learning new tech stacks  
