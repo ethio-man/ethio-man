@@ -25,7 +25,7 @@ I love exploring new technologies and constantly pushing myself to build better,
 ---
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mongodb,postgres,prisma,gcp,firebase,react,vite,tailwind,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mongodb,postgres,prisma,gcp,firebase,react,vite,tailwind,cpp,cs)](https://skillicons.dev)
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,html,css,cs)](https://skillicons.dev)
 
