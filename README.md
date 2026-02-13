@@ -2,7 +2,7 @@
 
 I’m a passionate **full-stack developer**, actively learning and building modern web applications.
 
-I’m a **self-taught developer**, learning through:
+Learning through:
 - Online courses 
 - Official documentation 
 - Hands-on experiments 
