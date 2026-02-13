@@ -40,6 +40,7 @@ I love exploring new technologies and constantly pushing myself to build better,
 [![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 - ### Render
 - ### Railway
+- ### Google Cloud run
 [![My Skills](https://skillicons.dev/icons?i=git,postman,github)](https://skillicons.dev)
 ---
 
