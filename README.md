@@ -30,7 +30,7 @@ I love exploring new technologies and constantly pushing myself to build better,
 [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,html,css)](https://skillicons.dev)
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi)](https://skillicons.dev)
 
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,prisma,gcp,firebase)](https://skillicons.dev)
